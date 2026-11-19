@@ -196,6 +196,6 @@ This project demonstrates the application of computer vision, object tracking, m
 **Language:** Python
 
 
-👩‍💻 Developed By
-Hiba Shoaib
+**👩‍💻 Developed By
+Hiba Shoaib**
 
