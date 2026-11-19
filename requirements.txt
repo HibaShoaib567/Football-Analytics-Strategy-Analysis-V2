@@ -1,0 +1,6 @@
+gradio==6.32.0
+pandas==3.1.1
+matplotlib==3.11.2
+ultralytics==8.4.215
+opencv-python==5.1.0.95
+scikit-learn==1.9.1

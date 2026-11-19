@@ -1,0 +1,34 @@
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Gradio certificates and settings
+.gradio/
+*.pem
+
+# Backups
+backups/
+V1_Backup/
+V1.zip
+Final_Evaluation_Backup/
+
+# Generated outputs
+output/
+outputs/
+
+# Video files
+*.mp4
+*.avi
+
+# Installation files
+*.deb
+
+# Logs and temporary files
+*.log
+.DS_Store
+Thumbs.db
